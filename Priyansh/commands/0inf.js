@@ -32,7 +32,7 @@ var callback = () => api.sendMessage({body:` ╾━╤デ╦︻(▀̿Ĺ̯▀̿ �
 
 🔥Bot Admin🔥☞︎︎︎☜︎︎︎✰ 𝐑𝐞𝐡𝐚𝐧💔🥀
 
-🙈bot andmin owner facebook id link🙈➪ www.facebook.com/Rehan.Shaikh.official 💞🕊️
+🙈bot andmin owner facebook id link🙈➪ https://www.facebook.com/pagal.ladka.582828/Rehan.Shaikh.official 💞🕊️
 
 👋For Any Kind Of Help Contact On Telegram  Username 👉 @Rehan Shaikh😇
 
