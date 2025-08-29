@@ -2,7 +2,7 @@ module.exports.config = {
 	name: "baucuaca",
 	version: "0.0.1",
 	hasPermssion: 0,
-	credits: "𝐏𝐫𝐢𝐲𝐚𝐧𝐬𝐡 𝐑𝐚𝐣𝐩𝐮𝐭",
+	credits: "𝐑𝐞𝐡𝐚𝐧 𝐒𝐡𝐚𝐢𝐤𝐡",
 	description: "Games",
 	commandCategory: "games",
 	usages: "baucuaca 500",
