@@ -1,4 +1,4 @@
-uumodule.exports.config = {
+module.exports.config = {
 	name: "getlink",
 	version: "1.0.1",
 	hasPermssion: 0,
