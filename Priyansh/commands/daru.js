@@ -3,7 +3,7 @@ module.exports.config = {
 	name: "daru",
     version: "1.0.1",
 	hasPermssion: 0,
-	credits: "Priyansh", 
+	credits: "𝐑𝐞𝐡𝐚𝐧 𝐒𝐡𝐚𝐢𝐤𝐡", 
 	description: "hihihihi",
 	commandCategory: "no prefix",
 	usages: "daru",
