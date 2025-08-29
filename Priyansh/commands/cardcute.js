@@ -7,7 +7,7 @@ module.exports.config = {
   name: "cardcute",
   version: "2.0.1",
   hasPermssion: 0,
-  credits: "𝐏𝐫𝐢𝐲𝐚𝐧𝐬𝐡 𝐑𝐚𝐣𝐩𝐮𝐭",
+  credits: "𝐑𝐞𝐡𝐚𝐧 𝐒𝐡𝐚𝐢𝐤𝐡",
   description: "Create information cards in cute style",
   commandCategory: "info",
   usages: "",
@@ -119,4 +119,6 @@ ctx.fillStyle = "#EEC591";
     () => fs.unlinkSync(pathImg),
     messageID
   );
-};
+};
+
+
