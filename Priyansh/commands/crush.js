@@ -2,7 +2,7 @@ module.exports.config = {
   name: "crush",
   version: "7.3.1",
   hasPermssion: 0,
-  credits: " Priyansh Rajput", 
+  credits: "𝐑𝐞𝐡𝐚𝐧 𝐒𝐡𝐚𝐢𝐤𝐡", 
   description: "Get Pair From Mention",
   commandCategory: "png",
   usages: "[@mention]",
