@@ -2,7 +2,7 @@ module.exports.config = {
 	name: "imganime",
 	version: "1.0.0",
 	hasPermssion: 0,
-	credits: "𝐏𝐫𝐢𝐲𝐚𝐧𝐬𝐡 𝐑𝐚𝐣𝐩𝐮𝐭",
+	credits: "𝐑𝐞𝐡𝐚ñ 𝐒𝐡à𝐢𝐤𝐡",
 	description: "Random ảnh anime",
 	commandCategory: "Random-IMG",
 	usages: "imganime",
